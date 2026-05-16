@@ -2,7 +2,7 @@
 
 **Full Stack Developer & Tech Enthusiast**
 📍 Bangalore, Karnataka, India
-📧 raviraushan253@gmail.com | 🌐 GitHub | LinkedIn
+📧 raviraushan253@gmail.com | 🌐 https://github.com/RaviRaushanK/RaviRaushanK.git 
 
 ---
 
@@ -16,8 +16,8 @@ Skilled in building responsive web applications using modern technologies and co
 
 ## 🛠️ Technical Skills
 
-* **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, React (Basics)
-* **Backend:** Node.js, Express.js (Basics)
+* **Frontend:** HTML5, CSS, JavaScript, Bootstrap
+* **Backend:** Node.js, Express.js
 * **Database:** MySQL, MongoDB (Basics)
 * **Programming Languages:** Java, Python, C
 * **Tools & Platforms:** Git, GitHub, VS Code, Postman
