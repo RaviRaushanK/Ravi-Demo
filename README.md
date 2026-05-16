@@ -74,13 +74,6 @@ Skilled in building responsive web applications using modern technologies and co
 
 ---
 
-## 📜 Certifications
-
-*Python
-* Programming & Problem Solving Courses
-
----
-
 ## 🌟 Interests
 
 * Full Stack Development
